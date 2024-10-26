@@ -50,4 +50,4 @@ class Student(Person):
         return f"{self.introduce()}, Student ID: {self.stu_id}"
     
 stu_Muh = Student("Muhammad", 30, "iq8765")
-print(stu_Muh.introduce())
+print(stu_Muh.dis_stud_info())
