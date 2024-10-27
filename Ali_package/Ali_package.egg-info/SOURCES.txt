@@ -1,0 +1,5 @@
+setup.py
+Ali_package.egg-info/PKG-INFO
+Ali_package.egg-info/SOURCES.txt
+Ali_package.egg-info/dependency_links.txt
+Ali_package.egg-info/top_level.txt
