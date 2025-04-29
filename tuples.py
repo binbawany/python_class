@@ -1,11 +1,12 @@
-#creation
-#access
-#unpacking
-#nested
-#count
-#index
-#change into list and back to tuple
-
+"""
+creation
+access
+unpacking
+nested
+count
+index
+change into list and back to tuple
+"""
 my_tuple = (1,2,3,3,4,5,3,6)
 print(type(my_tuple))
 

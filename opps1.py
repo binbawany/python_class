@@ -23,8 +23,8 @@ def show_role(personnel):
 teacher = Teacher()
 admin = Admin()
 
-#show_role(teacher)
-#show_role(admin)
+show_role(teacher)
+show_role(admin)
 
 
 #Encpsulation
